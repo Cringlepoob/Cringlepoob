@@ -2,6 +2,7 @@
   <br/>
   <h1>Greetings</h1>
   <p>I am a fellow intellectual like you all</p>
+  <p>We are superior to the imbeciles that grovel at our feet for our help with their computers<p>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Cringlepoob&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&show_icons=true&custom_title=My%20Github%20Stats" alt="My Github Stats" />
   <br/>
